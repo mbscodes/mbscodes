@@ -88,14 +88,11 @@ const muhammad = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mbscodes&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+![Public Repositories](https://img.shields.io/badge/Public_Repos-4-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)
+![Primary Skill](https://img.shields.io/badge/Primary_Skill-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/Focus-AI%2FML-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0F172A)
 
 <br />
-<br />
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mbscodes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="Muhammad's GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbscodes&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Muhammad's top languages" />
-
 <br />
 
 <img src="https://streak-stats.demolab.com?user=mbscodes&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Muhammad's GitHub streak" />
