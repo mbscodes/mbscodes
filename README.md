@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=96&section=header&text=Muhammad%20Bin%20Saleem&fontSize=34&fontColor=38BDF8&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Python%20%7C%20Odoo%20%7C%20Data&descAlignY=72&descSize=14" alt="Muhammad Bin Saleem profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F172A,75:2563EB,100:38BDF8&height=185&section=header&text=Muhammad%20Bin%20Saleem&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=%3C%2F%3E%20Aspiring%20AI%2FML%20Engineer%20%7C%20Python%20%7C%20Odoo%20%7C%20Data&descAlignY=58&descSize=16" alt="Muhammad Bin Saleem profile banner" />
 
 ```sql
 SELECT * FROM dreams WHERE limit IS NULL;
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=%24+python+main.py;%3E+training+AI%2FML+foundations;%3E+shipping+Python+and+Odoo+modules;%3E+debugging+until+the+stack+trace+behaves)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Python;AI+%7C+ML+%7C+Data;Building+smarter+software;Select+*+from+dreams+where+limit+is+null)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mbscodes&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)](https://github.com/mbscodes)
 [![GitHub Followers](https://img.shields.io/github/followers/mbscodes?style=for-the-badge&logo=github&color=0F172A&labelColor=111827)](https://github.com/mbscodes?tab=followers)
@@ -17,7 +17,7 @@ SELECT * FROM dreams WHERE limit IS NULL;
 
 ---
 
-## ./profile
+## Profile
 
 ```python
 class MuhammadBinSaleem:
@@ -32,7 +32,7 @@ Computer Science undergraduate focused on Python, AI/ML foundations, backend eng
 
 ---
 
-## ./skills
+## Skills
 
 <div align="center">
 
@@ -80,7 +80,7 @@ professional_traits/
 
 ---
 
-## ./projects
+## Projects
 
 | Project | Stack | Status |
 |---|---|---|
@@ -100,7 +100,7 @@ project_rules:
 
 ---
 
-## ./github
+## GitHub
 
 <div align="center">
 
@@ -117,7 +117,7 @@ project_rules:
 
 ---
 
-## ./contribution_graph
+## Contribution Graph
 
 <div align="center">
 
@@ -127,7 +127,7 @@ project_rules:
 
 ---
 
-## ./connect
+## Connect
 
 <div align="center">
 
@@ -140,3 +140,9 @@ project_rules:
 ```bash
 git commit -m "keep building"
 ```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,35:2563EB,70:0F172A,100:020617&height=115&section=footer" alt="Footer wave" />
+
+</div>
