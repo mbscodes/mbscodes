@@ -98,14 +98,14 @@ const muhammad = {
 
 <div align="center">
 
-![Public Repositories](https://img.shields.io/badge/Public_Repos-4-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmbscodes&query=%24%2Epublic_repos&label=Public%20Repos&color=38BDF8&style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)
 ![Primary Skill](https://img.shields.io/badge/Primary_Skill-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0F172A)
 ![Focus](https://img.shields.io/badge/Focus-AI%2FML-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0F172A)
 
 <br />
 <br />
 
-<img src="https://streak-stats.demolab.com?user=mbscodes&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Muhammad's GitHub streak" />
+<img src="https://raw.githubusercontent.com/mbscodes/mbscodes/output/github-streak.svg" alt="Muhammad's GitHub contribution streak" />
 
 </div>
 
@@ -115,7 +115,11 @@ const muhammad = {
 
 <div align="center">
 
-![GitHub contribution grid snake animation](https://github.com/mbscodes/mbscodes/raw/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbscodes/mbscodes/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbscodes/mbscodes/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mbscodes/mbscodes/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
